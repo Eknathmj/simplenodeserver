@@ -1,7 +1,7 @@
 {
   "name": "nodeapp",
   "version": "0.0.1",
-  "description": "NodeJS Server on Port 5000",
+  "description": "NodeJS Server on Port 80",
   "author": "Eknath Jayanache <eknathjayanache@gmail.com>",
   "main": "index.js",
   "scripts": {
